@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: be.maximvdw:FeatherBoard:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/maximvdw/FeatherBoard/4.0.0-SNAPSHOT/FeatherBoard-4.0.0-20171215.132754-335.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/be/maximvdw/FeatherBoard/4.0.0-SNAPSHOT/FeatherBoard-4.0.0-20171215.132754-335-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/maximvdw/FeatherBoard/4.0.0-SNAPSHOT/FeatherBoard-4.0.0-20171215.132754-335-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
